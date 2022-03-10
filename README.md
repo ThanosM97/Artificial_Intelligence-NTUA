@@ -13,7 +13,7 @@ We were given three csv files as input data. All of these files contain coordina
 ## Output
 Our system creates kml files that contain the best route for each taxi. We can upload them to [MyMaps](https://www.google.com/maps/d/u/0/) for visualization. 
 
-i.g.,
+e.g.,
 ![kml visualization](output/kml-output.png)
 
 In the example above, the green routes are the best. So the system informs **Taxi 100** to go to the client.
